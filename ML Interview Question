@@ -1,0 +1,140 @@
+How to Explain
+Hierarchical Clustering
+http://www.analytictech.com/networks/hiclus.htm
+
+http://www.vfirst.com/blog/techfirst/dimension-reduction-techniques-pca-vs-lda-in-machine-learning-part-2/
+
+https://www.utdallas.edu/~herve/Abdi-MCA2007-pretty.pdf
+
+Different Activation Function :
+
+https://www.youtube.com/watch?v=9h1ILdk0Cik
+https://towardsdatascience.com/activation-functions-and-its-types-which-is-better-a9a5310cc8f
+
+Vanishing problem :
+
+https://medium.com/@anishsingh20/the-vanishing-gradient-problem-48ae7f501257
+
+Number of hidden Layer :
+
+https://www.quora.com/Is-accuracy-proportional-to-the-number-of-the-hidden-layers-and-the-units-of-the-each-layer-in-Neural-Network
+
+Online Learning Algorithms
+https://www.coursera.org/learn/machine-learning/lecture/ABO2q/online-learning
+
+
+Amazon Mechanical Turk
+
+All Quiz Refrence :
+https://github.com/Franck-Dernoncourt/Coursera-Machine-Learning-Fall2013-4thEd-AndrewNg/tree/master/Review%20Questions
+
+Intro to Neural Network :
+https://www.analyticsvidhya.com/blog/2016/03/introduction-deep-learning-fundamentals-neural-networks/
+
+NLP Beginner :
+
+https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/
+
+Concept of Word Embedding :
+
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+
+KFold Cross Validation:
+https://machinelearningmastery.com/k-fold-cross-validation/
+
+Ridge Regression Graphical Interpretation:
+https://www.youtube.com/watch?v=5asL5Eq2x0A
+
+Lasso Regression Graphival Interpretation :
+https://www.youtube.com/watch?v=jbwSCwoT51M
+
+Concept of Vanishing and Exploding Gradient :
+https://medium.com/learn-love-ai/the-curious-case-of-the-vanishing-exploding-gradient-bf58ec6822eb
+
+Optimiser Function Description for Each Function :
+http://ruder.io/optimizing-gradient-descent/
+
+CNN Lanet Paper Explanied :
+https://www.youtube.com/watch?v=m8pOnJxOcqY
+
+
+Class Imabalance in Training Data Set :
+https://www.youtube.com/watch?v=OIjV_V8CpYs
+
+
+Recurrent Neural Network :
+
+https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/
+http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+
+
+Implementation of Deep Neural Network From Scartch :
+
+https://www.analyticsvidhya.com/blog/2019/01/fundamentals-deep-learning-recurrent-neural-networks-scratch-python/
+
+LSTM :
+
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+
+
+Decision Tree Question Explanantion Numeriacal :
+
+https://www.youtube.com/watch?v=NsmAEmoSRjk
+
+https://www.youtube.com/watch?v=JsbaJp6VaaU
+
+https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb
+
+https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/
+doubts : 16 , 18
+
+Decsition Tree PrePruning Tree :
+
+https://www.youtube.com/watch?v=t56Nid85Thg
+
+
+
+Naive Bayes Classifier Numerical Example :
+
+https://www.youtube.com/watch?v=mzPHmNm_NrM
+
+https://www.youtube.com/watch?v=uMKu2swUMwI
+
+KMeans Clustering Example :
+
+https://www.youtube.com/watch?v=_S5tvagaQRU
+
+Hierarchical Agglomerative Clustering Numerical Example :
+
+https://www.youtube.com/watch?v=RdT7bhm1M3E
+
+https://www.youtube.com/watch?v=qBBWg0Z7QKc
+
+https://www.youtube.com/watch?v=LjYGWgcUFR0 ( Compltee Linkage )
+
+ROC and AUC :
+
+https://www.youtube.com/watch?v=xugjARegisk
+
+Genrative v/s Discrimative Model :
+
+http://www.chioka.in/explain-to-me-generative-classifiers-vs-discriminative-classifiers/
+https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3
+
+Linear Regression Questions :
+https://www.analyzemath.com/statistics/linear_regression.html
+Quiz on linear Regression Numerical :
+https://www.cliffsnotes.com/study-guides/statistics/bivariate-relationships/quiz-simple-linear-regression
+
+All Concept :
+https://stattrek.com/tutorials/regression-tutorial.aspx?Tutorial=reg
+
+Derivation of Log Likelihood:
+https://www.youtube.com/watch?v=YMJtsYIp4kg
+
+Efects of Outliers on linear regression :
+https://stattrek.com/regression/influential-points.aspx?Tutorial=reg
+
+Derivation of Lofistic Regression :
+https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
